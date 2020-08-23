@@ -1,0 +1,18 @@
+{
+  "book": {
+      "method": "get",
+      "url": "http://192.168.5.215:8000/api/book/"
+  },
+  "type": {
+      "method": "get,put,delete,post",
+      "url": "http://192.168.5.215:8000/api/book/"
+  },
+  "book": {
+      "method": "get",
+      "url": "http://192.168.5.215:8000/api/book/"
+  },
+  "book": {
+      "method": "get",
+      "url": "http://192.168.5.215:8000/api/book/"
+  }
+}
